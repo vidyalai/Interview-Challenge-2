@@ -25,7 +25,7 @@ npm run problem-2
 
 ### Problem 3
 ```bash
-npm run problem-2
+npm run problem-3
 ```
 
 ### Problem 4
