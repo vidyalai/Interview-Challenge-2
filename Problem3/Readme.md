@@ -1,6 +1,3 @@
-Convert the existing task management application implemented using local state management with React hooks into a more scalable and maintainable architecture using the Context API for state management. ref(https://legacy.reactjs.org/docs/context.html)
-
-
 # Task Management Application with Context API
 
 This problem aims to convert an existing task management application implemented using local state management with React hooks into a more scalable and maintainable architecture using the Context API for state management.
